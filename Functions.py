@@ -71,7 +71,7 @@ v_phoneCollection = 'Hash_1590'
 #delEmpById(v_nameCollection, 'E02003')
 #print(f"Employee E02003 deleted from {v_nameCollection}")
 
-#print(f"Employee Count in {v_nameCollection} after deletion: {getEmpCount#(v_nameCollection)}")
+#print(f"Employee Count in {v_nameCollection} after deletion: {getEmpCount(v_nameCollection)}")
 
 #print(f"Search {v_nameCollection} by Department = 'IT':")
 #print(searchByColumn(v_nameCollection, 'Department', 'IT'))
