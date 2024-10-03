@@ -1,1 +1,1 @@
-# ApacheSolr
+# ApacheSolr Assignment
